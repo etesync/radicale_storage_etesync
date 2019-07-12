@@ -1,3 +1,6 @@
+DEPRACATED: install etesync-dav instead
+
+
 This is an `EteSync <https://www.etesync.com>`_ storage plugin for `Radicale <http://radicale.org/>`_.
 
 This plugin makes Radicale use EteSync as the storage module, essentially
