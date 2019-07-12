@@ -1,3 +1,6 @@
+# DEPRECATED: merged into [etesync-dav](https://github.com/etesync/etesync-dav)
+
+
 # This is an [EteSync](https://www.etesync.com) storage plugin for [Radicale](http://radicale.org/).
 
 This plugin makes Radicale use EteSync as the storage module, essentially
